@@ -18,7 +18,7 @@ export default function Frame() {
       height: "100vh", display: "flex", flexDirection: "column", 
       justifyContent: "center", alignItems: "center", fontFamily: "sans-serif" 
     }}>
-      <h1 style={{ color: "#7c3aed", fontSize: "2.5rem", marginBottom: "10px" }}>🔥 Roast Machine</h1>
+      <h1 style={{ color: "#7c3aed", fontSize: "2.5rem", marginBottom: "10px" }}>🔥 ROAST Machine</h1>
       <p style={{ color: "#888", marginBottom: "30px" }}>By Jimmortel 🔵</p>
       
       {!result ? (
