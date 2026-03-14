@@ -5,7 +5,7 @@ export default function Frame() {
   const [result, setResult] = useState("");
 
   const roastsFr = [
-    "50 abonnés et ça se prend déjà pour le roi de Base. Redescends, l'ami.",
+    "50 abonnés et ça se prend déjà pour le roi de Base.. Redescends, l'ami.",
     "Tu attends tes $DEGEN comme si c'était le RSA. Va bosser sur ta Frame !",
     "Ton profil est plus vide que le carnet d'ordres d'un memecoin mort.",
     "Même les Scammeurs en DM ne prennent pas la peine de t'écrire. Dur.",
